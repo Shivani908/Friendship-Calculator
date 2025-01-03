@@ -65,7 +65,7 @@ button{
 }
 
 button:hover{
-    color: crimson;
+    color: green;
     background-color: white;
 }
 
